@@ -52,5 +52,14 @@ The identical accuracy (**77.50%**) across both methods proves that our manual R
 ## 🚀 How to Run
 1. **Clone the repo**:
    ```bash
-   git clone [https://github.com/your-username/One-Ring-To-Reduce-Them-All.git](https://github.com/your-username/One-Ring-To-Reduce-Them-All.git)
-   cd One-Ring-To-Reduce-Them-All
+   git clone [https://github.com/your-username/One-Ring-To-Reduce-Them-All.git](https://[github.com/your-username/One-Ring-To-Reduce-Them-All](https://github.com/anmolguptacse/AllReduce-Your-Expectations.git)
+   cd AllReduce-Your-Expectations
+   ```
+2. **Install Dependeicies**:
+   ``` bash
+      pip install torch torchvision numpy
+   ```
+3. **Execute code**:
+   ``` bash
+      python assign.py
+   ```
