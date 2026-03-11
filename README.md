@@ -1,5 +1,5 @@
 # AllReduce-Your-Expectations
-
+this is assignment 3
 > **Manual Ring All-Reduce vs. Native Collective Synchronization on LeNet-5**
 
 This repository contains a high-performance implementation of **Distributed Data Parallelism (DDP)** from scratch. We train a LeNet-5 CNN on MNIST using 4 distributed CPU processes, comparing the industry-standard `dist.all_reduce` against a custom-built **Ring All-Reduce** algorithm.
